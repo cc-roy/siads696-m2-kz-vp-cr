@@ -1,4 +1,4 @@
-# Online News Popularity Analysis
+# Mashable articles: share prediction, classification, & topicality clustering
 
 ## Overview
 This repository contains our analysis of online news popularity, exploring the factors that contribute to article engagement and developing models to predict article shares, content categorization, and topicality clustering via supervised and unsupervised learning techniques.
